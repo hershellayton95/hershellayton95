@@ -47,6 +47,12 @@
 <hr>
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hershellayton95&theme=nord&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hershellayton95&theme=nord&show_icons=true&count_private=true)
   
  </div>
+<hr>
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hershellayton95&layout=compact&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
