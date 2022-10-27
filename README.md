@@ -32,10 +32,11 @@
 <code><img height="40" src="https://i.ibb.co/DQbdFB2/typescript.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
 <code><img height="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"></code>
+<code><img height="40" src="https://www.geekandjob.com/uploads/wiki/ff00c08760983e0e037aaf6ab4e004f4d147276a.png"></code>
+
+
+
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"></code>
-
-
-
 <code><img height="40" src="https://i.ibb.co/3dL3rV7/php.png"></code>
 <code><img height="40" src="https://i.ibb.co/wS5NRQR/sql.png"></code>
 <code><img height="40" src="https://i.ibb.co/6FyBPQ7/terminal.png"></code>
