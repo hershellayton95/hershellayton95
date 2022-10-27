@@ -1,16 +1,52 @@
-### Hi there 👋
+<div align="center">
+  
+<h3>Connect with me:</h3>
+<p>
+<a href="https://www.linkedin.com/in/filippo-di-marco-703649168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin filippo di marco" height="30" width="40" /></a>
+</p>
+  
+</div>
 
-<!--
-**hershellayton95/hershellayton95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-Here are some ideas to get you started:
+<h3>:mag:About Me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: I’m a Full Stack Developer Student with a graphic design passion
+- :books: I’m currently attending a web development stage which is based on React.js and Node.js
+- :musical_note: My hobbies are reading books, listening music and walking into natural places
+- 💬 Ask me about anything, I'm here: <a href="mailto:filidm5795@gmail.com">Filippo Di Marco</a>
+
+
+<br>
+<hr>
+
+<div align="center">
+
+<h3>:wrench:Languages and Tools</h3>
+
+
+<code><img height="40" src="https://i.ibb.co/8Xnw9Sd/html.png"></code>
+<code><img height="40" src="https://i.ibb.co/TtfQ3C2/css.png"></code>
+<code><img height="40" src="https://i.ibb.co/tB0yT6W/bootstrap.png"></code>
+<code><img height="40" src="https://i.ibb.co/2cQnY5L/javascript.png"></code>
+<code><img height="40" src="https://i.ibb.co/DQbdFB2/typescript.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
+<code><img height="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"></code>
+
+
+
+<code><img height="40" src="https://i.ibb.co/3dL3rV7/php.png"></code>
+<code><img height="40" src="https://i.ibb.co/wS5NRQR/sql.png"></code>
+<code><img height="40" src="https://i.ibb.co/6FyBPQ7/terminal.png"></code>
+<code><img height="40" src="https://i.ibb.co/xJxmc35/illustrator.png"></code>
+<code><img height="40" src="https://i.ibb.co/K6SGKyR/photoshop.png"></code>
+<code><img height="40" src="https://i.ibb.co/7SpXDMM/excel.png"></code>
+
+</div>
+<hr>
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hershellayton95&theme=nord&show_icons=true)
+  
+ </div>
