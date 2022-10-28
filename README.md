@@ -7,7 +7,7 @@
   
 </div>
 
-<img align="right" alt="GIF" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="left" alt="GIF" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h3>:mag:About Me</h3>
 
@@ -17,6 +17,7 @@
 - 💬 Ask me about anything, I'm here: <a href="mailto:filidm5795@gmail.com">Filippo Di Marco</a>
 
 
+<br>
 <br>
 <hr>
 
