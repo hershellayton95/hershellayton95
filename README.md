@@ -16,7 +16,6 @@
 - :musical_note: My hobbies are reading books, listening music and walking into natural places
 - 💬 Ask me about anything, I'm here: <a href="mailto:filidm5795@gmail.com">Filippo Di Marco</a>
 
-
 <br>
 <br>
 <hr>
