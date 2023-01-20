@@ -61,5 +61,5 @@
 
 <hr>
 <div align="center">
-<img src="https://raw.githubusercontent.com/hershellayton95/hershellayton95/main/contributions.svg>
+<img src="https://raw.githubusercontent.com/hershellayton95/hershellayton95/main/contributions.svg">
 </div>
