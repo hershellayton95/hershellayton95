@@ -58,3 +58,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hershellayton95&layout=compact&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
+<hr>
+<div align="center">
+https://raw.githubusercontent.com/hershellayton95/hershellayton95/main/contributions.svg
+</div>
