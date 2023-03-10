@@ -11,7 +11,7 @@
 
 <h3>:mag:About Me</h3>
 
-- :computer: I’m a Full Stack Developer Student with a graphic design passion
+- :computer: I’m a Full Stack Developer Student and Developer
 - :books: I’m currently attending a web development stage which is based on React.js and Node.js
 - :musical_note: My hobbies are reading books, listening music and walking into natural places
 - 💬 Ask me about anything, I'm here: <a href="mailto:filidm5795@gmail.com">Filippo Di Marco</a>
