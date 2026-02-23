@@ -46,8 +46,8 @@
 ### 🌐 Elsewhere
 Side notes, experiments, and things in progress:
 
-- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="16" height="16"> **GitHub Gists** - [fdimarcogdc](https://gist.github.com/hershellayton95)
-- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="16" height="16"> **Personal Profile** - [hershellayton95](https://github.com/fdimarcogdc)
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="16" height="16"> **GitHub Gists** - [hershellayton95](https://gist.github.com/hershellayton95)
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="16" height="16"> **Cloud Factory Project Profile** - [Filippo Di Marco](https://github.com/fdimarcogdc)
 - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="16" height="16"> **LinkedIn** - [Filippo Di Marco](https://www.linkedin.com/in/filippo-di-marco-703649168/)
 
 ---
